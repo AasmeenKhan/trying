@@ -4,10 +4,7 @@ feature added by tarun
 hi tarun me aasmeen
 yo this is dev work
 add new stuff
-<<<<<<< HEAD
 after making aasmeen and others
 working here
-=======
 after making aasmeen
 not working here
->>>>>>> not in aasmeen
