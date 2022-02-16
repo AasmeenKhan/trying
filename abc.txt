@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 hi this is feature branch
-=======
 hi this is newdev branch
 adding some code in new dev 
 after pushing feature
->>>>>>> added code to newdev
